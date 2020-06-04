@@ -1,0 +1,6 @@
+* Stack Machine
+
+Translated from David Beazley's python implementation in this talk: https://www.youtube.com/watch?v=r-A78RgMhZU
+
+TODO:
+Add support for conditionals / blocks + branches
